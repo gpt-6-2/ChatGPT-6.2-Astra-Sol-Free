@@ -1,0 +1,9 @@
+{
+  "context_window": 1050000,
+  "max_input": 922000,
+  "max_output": 128000,
+  "models": {
+    "gpt-6.2-astra": {"input": 8.0, "cached_input": 0.4, "output": 40.0, "fast_mult": 2, "ultrafast_mult": 3},
+    "gpt-6.2-sol": {"input": 2.0, "cached_input": 0.1, "output": 10.0, "fast_mult": 2, "ultrafast_mult": 3}
+  }
+}
